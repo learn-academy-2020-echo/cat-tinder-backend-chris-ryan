@@ -1,2 +1,0 @@
-  [1m[35m (1014.5ms)[0m  [1m[35mCREATE DATABASE "cat_tinder_backend_development" ENCODING = 'unicode'[0m
-  [1m[35m (201.7ms)[0m  [1m[35mCREATE DATABASE "cat_tinder_backend_test" ENCODING = 'unicode'[0m
